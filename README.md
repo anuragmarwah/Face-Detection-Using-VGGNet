@@ -3,10 +3,13 @@
 ## Overview
 This repository is for my graduate course project at NYU in the subject Introduction to Machine Learning.
 
-Team Details: Team 1 <a href="https://github.com/anuragmarwah/Face-Detection-Using-VGGNet/blob/master/Project-Report-Team1.pdf"> (Project Report) </a>
+Team Details: Team 1
 
 Team Members:
   - Anurag Marwah (am8482@nyu.edu)
+
+Project Report: <a href="https://github.com/anuragmarwah/Face-Detection-Using-VGGNet/blob/master/Project-Report-Team1.pdf"> Link </a>
+
 
 ## Description
 - I have used a pre-trained VGGNet from Keras and fine-tuned it to perform binary classification of facial data in images.
