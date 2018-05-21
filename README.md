@@ -3,7 +3,8 @@
 ## Overview
 This repository is for my graduate course project at NYU in the subject Introduction to Machine Learning.
 
-Team Details: Team 1 <a href="https://github.com/anuragmarwah/Face-Detection-Using-VGGNet/blob/master/Project-Report-Team1.pdf"> Project Report </a>
+Team Details: Team 1 <a href="https://github.com/anuragmarwah/Face-Detection-Using-VGGNet/blob/master/Project-Report-Team1.pdf"> (Project Report) </a>
+
 Team Members:
   - Anurag Marwah (am8482@nyu.edu)
 
